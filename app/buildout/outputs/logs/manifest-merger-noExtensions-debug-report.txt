@@ -49,6 +49,7 @@ MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bingr\.android\buil
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bingr\.android\build-cache\1620d242ab4d805713cf36c2345209e83eaa986d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bingr\.android\build-cache\efb05c35e48155a172ca171ac11707e30281256d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bingr\.android\build-cache\5853ad37d6800bc6be138d3c83e881ef03bb147e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bingr\.android\build-cache\26170df1d701ddc6645305d140baf70179caac76\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bingr\.android\build-cache\5bd3a8e093e2b6ca5ff0e99e40cb19da38730923\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bingr\.android\build-cache\359d4c4a0bfc652c727bd2b85b293c93d21dc092\output\AndroidManifest.xml:29:5-20
 	android:label
@@ -162,6 +163,7 @@ MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bingr\.androi
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bingr\.android\build-cache\efb05c35e48155a172ca171ac11707e30281256d\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bingr\.android\build-cache\6d59e82834fae3be60d4c68a98fe02ee9c671413\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bingr\.android\build-cache\5853ad37d6800bc6be138d3c83e881ef03bb147e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bingr\.android\build-cache\26170df1d701ddc6645305d140baf70179caac76\output\AndroidManifest.xml:20:5-43
 MERGED from [BingryPlayer:library-dash:unspecified] H:\Android\workspace\BingryPlayer\library\dash\buildout\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bingr\.android\build-cache\5bd3a8e093e2b6ca5ff0e99e40cb19da38730923\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bingr\.android\build-cache\359d4c4a0bfc652c727bd2b85b293c93d21dc092\output\AndroidManifest.xml:21:5-23:58
@@ -186,6 +188,7 @@ MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bingr\.androi
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bingr\.android\build-cache\efb05c35e48155a172ca171ac11707e30281256d\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bingr\.android\build-cache\6d59e82834fae3be60d4c68a98fe02ee9c671413\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bingr\.android\build-cache\5853ad37d6800bc6be138d3c83e881ef03bb147e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\bingr\.android\build-cache\26170df1d701ddc6645305d140baf70179caac76\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bingr\.android\build-cache\5bd3a8e093e2b6ca5ff0e99e40cb19da38730923\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bingr\.android\build-cache\359d4c4a0bfc652c727bd2b85b293c93d21dc092\output\AndroidManifest.xml:25:5-27:34
 	android:value

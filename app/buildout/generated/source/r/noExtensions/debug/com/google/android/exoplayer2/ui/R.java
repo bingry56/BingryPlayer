@@ -8,35 +8,35 @@ package com.google.android.exoplayer2.ui;
 
 public final class R {
     public static final class attr {
-        public static final int ad_marker_color = 0x7f0100de;
-        public static final int ad_marker_width = 0x7f0100d6;
-        public static final int bar_height = 0x7f0100d4;
-        public static final int buffered_color = 0x7f0100dc;
+        public static final int ad_marker_color = 0x7f0100e9;
+        public static final int ad_marker_width = 0x7f0100e1;
+        public static final int bar_height = 0x7f0100df;
+        public static final int buffered_color = 0x7f0100e7;
         public static final int controller_layout_id = 0x7f010001;
-        public static final int default_artwork = 0x7f010106;
+        public static final int default_artwork = 0x7f010111;
         public static final int fastforward_increment = 0x7f010003;
-        public static final int hide_on_touch = 0x7f010108;
-        public static final int played_color = 0x7f0100da;
+        public static final int hide_on_touch = 0x7f010113;
+        public static final int played_color = 0x7f0100e5;
         public static final int player_layout_id = 0x7f010031;
         public static final int resize_mode = 0x7f010032;
         public static final int rewind_increment = 0x7f010033;
-        public static final int scrubber_color = 0x7f0100db;
-        public static final int scrubber_disabled_size = 0x7f0100d8;
-        public static final int scrubber_dragged_size = 0x7f0100d9;
-        public static final int scrubber_enabled_size = 0x7f0100d7;
+        public static final int scrubber_color = 0x7f0100e6;
+        public static final int scrubber_disabled_size = 0x7f0100e3;
+        public static final int scrubber_dragged_size = 0x7f0100e4;
+        public static final int scrubber_enabled_size = 0x7f0100e2;
         public static final int show_timeout = 0x7f010034;
         public static final int surface_type = 0x7f010035;
-        public static final int touch_target_height = 0x7f0100d5;
-        public static final int unplayed_color = 0x7f0100dd;
-        public static final int use_artwork = 0x7f010105;
-        public static final int use_controller = 0x7f010107;
+        public static final int touch_target_height = 0x7f0100e0;
+        public static final int unplayed_color = 0x7f0100e8;
+        public static final int use_artwork = 0x7f010110;
+        public static final int use_controller = 0x7f010112;
     }
     public static final class color {
-        public static final int exo_edit_mode_background_color = 0x7f0b0017;
+        public static final int exo_edit_mode_background_color = 0x7f0b001b;
     }
     public static final class dimen {
-        public static final int exo_media_button_height = 0x7f080050;
-        public static final int exo_media_button_width = 0x7f080051;
+        public static final int exo_media_button_height = 0x7f080053;
+        public static final int exo_media_button_width = 0x7f080054;
     }
     public static final class drawable {
         public static final int exo_controls_fastforward = 0x7f020054;
@@ -86,17 +86,17 @@ public final class R {
     }
     public static final class style {
         public static final int ExoMediaButton = 0x7f09001e;
-        public static final int ExoMediaButton_FastForward = 0x7f0900d2;
-        public static final int ExoMediaButton_Next = 0x7f0900d3;
-        public static final int ExoMediaButton_Pause = 0x7f0900d4;
-        public static final int ExoMediaButton_Play = 0x7f0900d5;
-        public static final int ExoMediaButton_Previous = 0x7f0900d6;
-        public static final int ExoMediaButton_Rewind = 0x7f0900d7;
+        public static final int ExoMediaButton_FastForward = 0x7f0900d6;
+        public static final int ExoMediaButton_Next = 0x7f0900d7;
+        public static final int ExoMediaButton_Pause = 0x7f0900d8;
+        public static final int ExoMediaButton_Play = 0x7f0900d9;
+        public static final int ExoMediaButton_Previous = 0x7f0900da;
+        public static final int ExoMediaButton_Rewind = 0x7f0900db;
     }
     public static final class styleable {
         public static final int[] AspectRatioFrameLayout = { 0x7f010032 };
         public static final int AspectRatioFrameLayout_resize_mode = 0;
-        public static final int[] DefaultTimeBar = { 0x7f0100d4, 0x7f0100d5, 0x7f0100d6, 0x7f0100d7, 0x7f0100d8, 0x7f0100d9, 0x7f0100da, 0x7f0100db, 0x7f0100dc, 0x7f0100dd, 0x7f0100de };
+        public static final int[] DefaultTimeBar = { 0x7f0100df, 0x7f0100e0, 0x7f0100e1, 0x7f0100e2, 0x7f0100e3, 0x7f0100e4, 0x7f0100e5, 0x7f0100e6, 0x7f0100e7, 0x7f0100e8, 0x7f0100e9 };
         public static final int DefaultTimeBar_ad_marker_color = 10;
         public static final int DefaultTimeBar_ad_marker_width = 2;
         public static final int DefaultTimeBar_bar_height = 0;
@@ -113,7 +113,7 @@ public final class R {
         public static final int PlaybackControlView_fastforward_increment = 1;
         public static final int PlaybackControlView_rewind_increment = 2;
         public static final int PlaybackControlView_show_timeout = 3;
-        public static final int[] SimpleExoPlayerView = { 0x7f010001, 0x7f010003, 0x7f010031, 0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035, 0x7f010105, 0x7f010106, 0x7f010107, 0x7f010108 };
+        public static final int[] SimpleExoPlayerView = { 0x7f010001, 0x7f010003, 0x7f010031, 0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035, 0x7f010110, 0x7f010111, 0x7f010112, 0x7f010113 };
         public static final int SimpleExoPlayerView_controller_layout_id = 0;
         public static final int SimpleExoPlayerView_default_artwork = 8;
         public static final int SimpleExoPlayerView_fastforward_increment = 1;

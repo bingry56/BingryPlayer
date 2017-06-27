@@ -1,4 +1,4 @@
-#Fri Jun 23 20:23:51 KST 2017
+#Tue Jun 27 23:54:10 KST 2017
 base.0=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run_a78d689a57aaeb06d1d426f7c8407ffb20ce1399
 renamed.1=classes2.dex
 renamed.0=classes.dex

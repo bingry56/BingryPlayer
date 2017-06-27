@@ -84,6 +84,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\26170df1d701ddc6645305d140baf70179caac76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_1c9b61da1f18b303d516a3739483a6e08e16b7a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\bingr\.android\build-cache\6d59e82834fae3be60d4c68a98fe02ee9c671413\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"

@@ -99,7 +99,7 @@ public class PlayerListFragment extends Fragment {
 //                //recyclerView.setLayoutManager(new GridLayoutManager(context, mColumnCount));
 //                recyclerView.setLayoutManager(new StaggeredGridLayoutManager(1, StaggeredGridLayoutManager.VERTICAL));
 //            }
-            recyclerView.setLayoutManager(new StaggeredGridLayoutManager(1, StaggeredGridLayoutManager.VERTICAL));
+            recyclerView.setLayoutManager(new StaggeredGridLayoutManager(2, StaggeredGridLayoutManager.VERTICAL));
             recyclerView.setAdapter(new BingryItemRecyclerViewAdapter(/*BingryContent.ITEMS, */mListener));
             recyclerView.addOnScrollListener(new RecyclerView.OnScrollListener() {
                 @Override

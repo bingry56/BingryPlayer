@@ -16,12 +16,12 @@
         "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\layout\\streaming_player_view.xml"
     },
     {
-        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\notification_template_part_chronometer.xml",
@@ -84,24 +84,24 @@
         "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\exo_playback_control_view.xml",
-        "source": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\layout\\exo_playback_control_view.xml"
-    },
-    {
-        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\controller_view.xml",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\layout\\controller_view.xml"
     },
     {
         "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\controller_view.xml",
-        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\layout\\controller_view.xml"
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout\\select_dialog_multichoice_material.xml",
