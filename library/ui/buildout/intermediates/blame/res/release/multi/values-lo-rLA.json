@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\buildout\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo-rLA\\values-lo-rLA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1086,
+                        "endColumn": 78,
+                        "endOffset": 1162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 71,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 748,
+                        "endColumn": 69,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 71,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 818,
+                        "endColumn": 69,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 65,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 888,
+                        "endColumn": 63,
+                        "endOffset": 949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 77,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 672,
+                        "endColumn": 75,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 73,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1014,
+                        "endColumn": 71,
+                        "endOffset": 1083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 63,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-lo-rLA\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 952,
+                        "endColumn": 61,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    }
+]

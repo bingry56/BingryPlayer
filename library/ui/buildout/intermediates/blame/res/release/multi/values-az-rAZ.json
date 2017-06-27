@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\buildout\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-az-rAZ\\values-az-rAZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1084,
+                        "endColumn": 78,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 72,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 746,
+                        "endColumn": 70,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 66,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 817,
+                        "endColumn": 64,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 64,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 882,
+                        "endColumn": 62,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 75,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 672,
+                        "endColumn": 73,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 73,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1012,
+                        "endColumn": 71,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 68,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-az-rAZ\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 945,
+                        "endColumn": 66,
+                        "endOffset": 1009
+                    }
+                }
+            }
+        ]
+    }
+]

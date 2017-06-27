@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\buildout\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-bs-rBA\\values-bs-rBA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 73,
+                    "endOffset": 124
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1100,
+                        "endColumn": 71,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 129,
+                    "endColumn": 75,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 751,
+                        "endColumn": 73,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 69,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 825,
+                        "endColumn": 67,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 72,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 893,
+                        "endColumn": 70,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 80,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 672,
+                        "endColumn": 78,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 70,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1031,
+                        "endColumn": 68,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 68,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "H:\\Android\\workspace\\BingryPlayer\\library\\ui\\src\\main\\res\\values-bs-rBA\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 964,
+                        "endColumn": 66,
+                        "endOffset": 1028
+                    }
+                }
+            }
+        ]
+    }
+]

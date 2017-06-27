@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\Android\workspace\BingryPlayer\extensions\ffmpeg\src\main\jniLibs"/><source path="H:\Android\workspace\BingryPlayer\extensions\ffmpeg\src\main\libs"/></dataSet><dataSet config="debug"><source path="H:\Android\workspace\BingryPlayer\extensions\ffmpeg\src\debug\jniLibs"/></dataSet></merger>

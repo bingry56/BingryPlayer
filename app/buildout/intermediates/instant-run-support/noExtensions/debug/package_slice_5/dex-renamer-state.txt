@@ -1,0 +1,4 @@
+#Wed Jun 14 22:19:39 KST 2017
+base.0=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\5\\slice_5\\classes.dex

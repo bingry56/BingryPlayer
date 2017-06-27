@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

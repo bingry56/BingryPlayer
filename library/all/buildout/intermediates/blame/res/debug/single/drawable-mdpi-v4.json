@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_edit_mode_logo.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_fastforward.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_next.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_previous.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_pause.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_rewind.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\all\\buildout\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_play.png",
+        "source": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\library\\ui\\buildout\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\exo_controls_play.png"
+    }
+]

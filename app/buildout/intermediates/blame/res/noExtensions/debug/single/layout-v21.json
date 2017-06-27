@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\a13a6ab0dc6aebce448d5619d35ec31672589560\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

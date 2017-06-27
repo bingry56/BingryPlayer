@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-hdpi\\empty_photo.png",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\res\\merged\\noExtensions\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\Android\\workspace\\BingryPlayer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

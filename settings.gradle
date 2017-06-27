@@ -1,0 +1,10 @@
+include ':app', ':library-core', ':library-dash', ':library-hls', ':library-smoothstreaming', ':library-ui', ':extension-ffmpeg', ':extension-flac', ':extension-opus', ':extension-vp9'
+project(':library-core').projectDir = new File('library/core')
+project(':library-dash').projectDir = new File('library/dash')
+project(':library-hls').projectDir = new File('library/hls')
+project(':library-smoothstreaming').projectDir = new File('library/smoothstreaming')
+project(':library-ui').projectDir = new File('library/ui')
+project(':extension-ffmpeg').projectDir = new File('extensions/ffmpeg')
+project(':extension-flac').projectDir = new File('extensions/flac')
+project(':extension-opus').projectDir = new File('extensions/opus')
+project(':extension-vp9').projectDir = new File('extensions/vp9')

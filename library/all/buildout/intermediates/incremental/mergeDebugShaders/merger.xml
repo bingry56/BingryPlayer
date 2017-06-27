@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="H:\Android\ExoPlayer-release-v2\ExoPlayer-release-v2\library\all\src\main\shaders"/></dataSet><dataSet config="debug"><source path="H:\Android\ExoPlayer-release-v2\ExoPlayer-release-v2\library\all\src\debug\shaders"/></dataSet></merger>

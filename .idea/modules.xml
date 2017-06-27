@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BingryPlayer.iml" filepath="$PROJECT_DIR$/BingryPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/ffmpeg/extension-ffmpeg.iml" filepath="$PROJECT_DIR$/extensions/ffmpeg/extension-ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/flac/extension-flac.iml" filepath="$PROJECT_DIR$/extensions/flac/extension-flac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/opus/extension-opus.iml" filepath="$PROJECT_DIR$/extensions/opus/extension-opus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" filepath="$PROJECT_DIR$/extensions/vp9/extension-vp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/core/library-core.iml" filepath="$PROJECT_DIR$/library/core/library-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/dash/library-dash.iml" filepath="$PROJECT_DIR$/library/dash/library-dash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/hls/library-hls.iml" filepath="$PROJECT_DIR$/library/hls/library-hls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/smoothstreaming/library-smoothstreaming.iml" filepath="$PROJECT_DIR$/library/smoothstreaming/library-smoothstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/ui/library-ui.iml" filepath="$PROJECT_DIR$/library/ui/library-ui.iml" />
+    </modules>
+  </component>
+</project>

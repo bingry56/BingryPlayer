@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\ui_layer_with_portrait_support.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\23d3db3958d1c8d8d2b73af4eba5c8d1ec99e27e\\output\\res\\layout-land\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\back_button.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\23d3db3958d1c8d8d2b73af4eba5c8d1ec99e27e\\output\\res\\layout-land\\back_button.xml"
+    },
+    {
+        "merged": "H:\\Android\\ExoPlayer-release-v2\\ExoPlayer-release-v2\\extensions\\gvr\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\settings_button.xml",
+        "source": "C:\\Users\\bingr\\.android\\build-cache\\23d3db3958d1c8d8d2b73af4eba5c8d1ec99e27e\\output\\res\\layout-land\\settings_button.xml"
+    }
+]

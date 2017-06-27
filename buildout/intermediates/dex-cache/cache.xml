@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\288c55f43e1bb76528460297a4ab9cc4e3eefa74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_a848d78ba49d8c089b0df3b576a7a611790b39d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\5853ad37d6800bc6be138d3c83e881ef03bb147e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_b0191c8133ef359e5a9a4f551d0e09bd548aca82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\incremental-classes\noExtensions\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f88ff8dfea79ded6f9e55d1671c7a642d20d2de">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10000\instant-run-bootstrap_a00ca5eec53ab4eb6f7d0d8fa80f5a39a541bf65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\f7053fbd3e1881b9a543469db329b7e7ea54dc18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_126b78f88f0edceee307b027c441db9a272383d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\efb05c35e48155a172ca171ac11707e30281256d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_5ab3ab96670493d127e343d761e6bbb7ace09a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\a13a6ab0dc6aebce448d5619d35ec31672589560\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_5d5a3342662d54dd496029088d77a6a33e9cdf74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\c3fc61adc3bc18a05ec8150cb604e0eccbf91b31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_b85e413cdc12342b9aa734590f1e994a20825b17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\incremental-runtime-classes\noExtensions\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10000\instant-run_a78d689a57aaeb06d1d426f7c8407ffb20ce1399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\1620d242ab4d805713cf36c2345209e83eaa986d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_07b413f83bd8f50a22330aac83afee121531cfcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\6d59e82834fae3be60d4c68a98fe02ee9c671413\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_12178b348a7f2d5addd77f1cf02ca364d1f78059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\.android\build-cache\d722645aa4cc596d6ef53f31bdaddee976ebacb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\classes_e99d5544a6ed11dcae72c75174261239d530849b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bingr\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="H:\Android\workspace\BingryPlayer\app\buildout\intermediates\transforms\dex\noExtensions\debug\folders\1000\10\constraint-layout-solver-1.0.2_59236a198a8f340b3af4b34b77d0bf7f954a64a7\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "H:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\incremental\\mergeNoExtensionsDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\bingr\\.android\\build-cache\\f5d0c29f573053a972a90b013cf61db05c2732ac\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

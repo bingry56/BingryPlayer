@@ -1,0 +1,7 @@
+#Fri Jun 23 20:23:51 KST 2017
+base.0=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run_a78d689a57aaeb06d1d426f7c8407ffb20ce1399
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a00ca5eec53ab4eb6f7d0d8fa80f5a39a541bf65\\classes.dex
+base.1=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a00ca5eec53ab4eb6f7d0d8fa80f5a39a541bf65
+file.0=H\:\\Android\\workspace\\BingryPlayer\\app\\buildout\\intermediates\\transforms\\dex\\noExtensions\\debug\\folders\\1000\\10000\\instant-run_a78d689a57aaeb06d1d426f7c8407ffb20ce1399\\classes.dex
